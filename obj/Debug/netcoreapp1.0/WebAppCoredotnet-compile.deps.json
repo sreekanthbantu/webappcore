@@ -14,7 +14,7 @@
   },
   "targets": {
     ".NETCoreApp,Version=v1.0": {
-      "webappcore/1.0.0": {
+      "WebAppCore/1.0.0": {
         "dependencies": {
           "Microsoft.NETCore.App": "1.0.1",
           "Microsoft.ApplicationInsights.AspNetCore": "1.0.0",
@@ -34,7 +34,7 @@
           "Microsoft.Extensions.Configuration.CommandLine": "1.0.0"
         },
         "compile": {
-          "webappcore.dll": {}
+          "WebAppCore.dll": {}
         }
       },
       "Libuv/1.9.0": {
@@ -2641,7 +2641,7 @@
       }
     },
     ".NETCoreApp,Version=v1.0/": {
-      "webappcore/1.0.0": {
+      "WebAppCore/1.0.0": {
         "dependencies": {
           "Microsoft.NETCore.App": "1.0.1",
           "Microsoft.ApplicationInsights.AspNetCore": "1.0.0",
@@ -2661,7 +2661,7 @@
           "Microsoft.Extensions.Configuration.CommandLine": "1.0.0"
         },
         "runtime": {
-          "webappcore.dll": {}
+          "WebAppCore.dll": {}
         }
       },
       "Libuv/1.9.0": {
@@ -5170,7 +5170,7 @@
     }
   },
   "libraries": {
-    "webappcore/1.0.0": {
+    "WebAppCore/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
