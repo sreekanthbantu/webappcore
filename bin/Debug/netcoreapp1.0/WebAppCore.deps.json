@@ -14,7 +14,7 @@
   },
   "targets": {
     ".NETCoreApp,Version=v1.0": {
-      "WebAppCore/1.0.0": {
+      "webappcore/1.0.0": {
         "dependencies": {
           "Microsoft.NETCore.App": "1.0.1",
           "Microsoft.ApplicationInsights.AspNetCore": "1.0.0",
@@ -34,10 +34,10 @@
           "Microsoft.Extensions.Configuration.CommandLine": "1.0.0"
         },
         "runtime": {
-          "WebAppCore.dll": {}
+          "webappcore.dll": {}
         },
         "compile": {
-          "WebAppCore.dll": {}
+          "webappcore.dll": {}
         }
       },
       "Microsoft.ApplicationInsights/2.1.0": {
@@ -3287,7 +3287,7 @@
     }
   },
   "libraries": {
-    "WebAppCore/1.0.0": {
+    "webappcore/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
